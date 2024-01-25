@@ -1,5 +1,5 @@
 /*
-    Write a program that reads in 3 numbers and prints their average.
+    2. Write a program that reads in 3 numbers and prints their average.
 
         Input:
         Insert first number: 3 
