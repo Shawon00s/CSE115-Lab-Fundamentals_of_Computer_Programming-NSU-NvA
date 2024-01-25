@@ -1,5 +1,5 @@
 /*
-        Convert Celsius to Fahrenheit unit using the following formula. Take the value of C as input from user and calculate the value of F.
+        3. Convert Celsius to Fahrenheit unit using the following formula. Take the value of C as input from user and calculate the value of F.
         F= C * (9/5) + 32
 */
 #include <stdio.h>
