@@ -1,5 +1,5 @@
 /*
-    Solve the equation: ax^2+bx+c=0 and print the solutions. 
+    2. Solve the equation: ax^2+bx+c=0 and print the solutions. 
     Read a,b,c from user
     Hint: compute the values of (-b+sqrt(b^2-4ac))/2a and (-b-sqrt(b^2-4ac))/2a; 
     here sqrt is a C function that computes the squared root of a number
