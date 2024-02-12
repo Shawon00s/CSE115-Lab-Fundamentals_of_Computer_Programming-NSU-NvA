@@ -20,4 +20,4 @@ int main()
     {
         printf("You are too young or too old");
     }
-}
+} 
